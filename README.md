@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- :fire: Switcher. From cargo aviation to **Full Stack Developer** 
+- :fire: Switcher. From cargo aviation ✈️ to **Full Stack Developer** 
 - :computer: I’m currently working with: 
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="React" width="40"/> &nbsp; <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux" width="40"/> &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" width="40"/> &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" width="40"/> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40"/> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40"/>

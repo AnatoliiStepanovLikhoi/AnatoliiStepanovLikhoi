@@ -7,7 +7,7 @@
    &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" width="40"/> &nbsp;
 
 - ⚡ My status: Now I am looking for a new position in the company where I want to grow together. [My CV](https://anatoliistepanovlikhoi.github.io/CV-Anatolii-Stepanov-Likhoi)
-- 📫 How to reach me: [Telegram](https://t.me/stepanovlikhoi), [Linkedin](https://www.linkedin.com)
+- 📫 How to reach me: [Telegram](https://t.me/stepanovlikhoi), [Linkedin]([https://www.linkedin.com](https://www.linkedin.com/in/anatolii-stepanov-likhoi))
 
 ## Stats
 
